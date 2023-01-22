@@ -133,4 +133,4 @@ Follow the video, use these files as a clearer example.
 
 Like is said this is not for plagiarism and if you get in trouble for it, fuck you in advanced thats your fault.
 
-My code is pretty clear and obvious and I didn't take much time writing this because my life is busy af and despite money. I still hate life.
+My code is pretty clear and obvious and I didn't take much time writing this because my life is busy af.
