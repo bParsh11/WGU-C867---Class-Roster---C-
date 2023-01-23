@@ -16,8 +16,8 @@ You have to create a header file for your cpp files so that values and functions
 
 for example:
 
-roster.h -> roster.cpp
-student.h -> student.cpp
+roster.h -> roster.cpp;
+student.h -> student.cpp;
 
 -we also have degree.h
 
