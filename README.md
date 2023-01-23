@@ -76,7 +76,7 @@ people "yeah I can code a bit", well look here butt munch, it isn't easy coding 
 the break room and thinking, "I'm better than everyone I know because I make so much money". Remember why you wanted to learn to code in the first place. If it's 
 brain frying and difficult, you are doing it right and eventually, (like everybody else who knows how to code) you will be in disbelief how easy the things
 you thought were difficult are. Perseverance is the name of the game, you don't have to have an IQ of 120+, been coding since you were 10 (usually some bs story tbh, 
-I rememeber tinkering with HTML when I was in middle school and every body thought I was a genius), be asian or from a nordic country or really anything.
+I rememeber tinkering with HTML when I was in middle school and every body thought I was a genius), be from a nordic country or really anything.
 
 You need to have a compiler.
 
